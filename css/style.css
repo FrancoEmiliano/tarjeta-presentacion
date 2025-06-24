@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: lightgreen;
+}
+
+main {
+    margin: 35px;
+    padding: 35px;
+    background-color: rgb(222, 239, 245);
+    text-align: center;
+}
+
+.titulo_presentacion {
+    font-family: "Goldman", sans-serif;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.titulo_descriptivo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    text-decoration: underline; 
+}
+
+main img {
+    width: 250px;
+    height: 250px;
+    align-content: center;
+    border: double;
+    border-color: blue;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
